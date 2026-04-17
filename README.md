@@ -16,7 +16,7 @@ Este proyecto demuestra habilidades en **Administración de Sistemas (SysAdmin)*
 * **Control de Versiones:** Git / GitHub para la gestión de configuraciones críticas.
 
 ## Características Técnicas
-* **Gestión de Dependencias:** Resolución de conflictos entre más de [NÚMERO_DE_MODS] mods, incluyendo optimizadores de renderizado y lógica de servidor.
+* **Gestión de Dependencias:** Resolución de conflictos entre más de [24] mods, incluyendo optimizadores de renderizado y lógica de servidor.
 * **Optimización de Recursos:** Configuración avanzada de la JVM para la gestión eficiente de memoria RAM y ciclos de CPU.
 * **Seguridad y Mantenimiento:** Implementación de protocolos de protección de spawn, gestión de rangos (OP/Admin) y backups automatizados.
 * **Troubleshooting:** Diagnóstico y resolución de errores de red (Gateway 504) y debugging de crash-reports.
